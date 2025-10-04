@@ -1,0 +1,66 @@
+[
+    {
+        "room_number": 101,
+        "room_type": "Single",
+        "price": 100.0,
+        "capacity": 1,
+        "amenities": ["Wi-Fi", "AC"],
+        "status": "Available"
+    },
+    {
+        "room_number": 102,
+        "room_type": "Double",
+        "price": 150.0,
+        "capacity": 2,
+        "amenities": ["Wi-Fi", "TV"],
+        "status": "Available"
+    },
+    {
+        "room_number": 103,
+        "room_type": "Suite",
+        "price": 250.0,
+        "capacity": 4,
+        "amenities": ["Wi-Fi", "TV", "Mini-Bar"],
+        "status": "Available"
+    },
+    {
+        "room_number": 104,
+        "room_type": "Deluxe",
+        "price": 200.0,
+        "capacity": 3,
+        "amenities": ["Wi-Fi", "TV", "AC"],
+        "status": "Available"
+    },
+    {
+        "room_number": 105,
+        "room_type": "Single",
+        "price": 120.0,
+        "capacity": 1,
+        "amenities": ["Wi-Fi", " Bathrobes and slippers", "Free parking", "Premium coffee", "Gym or fitness center"],
+        "status": "Booked"
+    },
+    {
+        "room_number": 106,
+        "room_type": "Double",
+        "price": 160.0,
+        "capacity": 2,
+        "amenities": ["Wi-Fi", "VIP Shopping at Local Merchants", "TV", "Relaxation Devices", " Rollaway Tent", "Hotel Pet Ambassador"],
+        "status": "Available"
+    },
+    {
+        "room_number": 107,
+        "room_type": "Suite",
+        "price": 300.0,
+        "capacity": 4,
+        "amenities": ["Mini-Bar", " Sweet Treat at Turndown", "AC"],
+        "status": "Available"
+    },
+    {
+        "room_number": 108,
+        "room_type": "Deluxe",
+        "price": 220.0,
+        "capacity": 3,
+        "amenities": ["Wi-Fi", "TV", "AC", "Fitness Tech", "Arcade Games", " Musical Instruments"],
+        "status": "Under Maintenance"
+    }
+]
