@@ -1,0 +1,664 @@
+{
+    "quizzes": {
+        "quiz_1630453028": {
+            "admin": "admin_username",
+            "topic": "Science",
+            "password": "securepassword123",
+            "difficulty": "medium",
+            "time_limit": 30,
+            "max_score": 100,
+            "attempts": 5,
+            "tags": [
+                "science",
+                "chemistry",
+                "physics",
+                "biology",
+                "earth_science"
+            ],
+            "questions": [
+                {
+                    "id": "q1",
+                    "question": "What is the chemical symbol for water?",
+                    "options": [
+                        "H2O",
+                        "CO2",
+                        "O2",
+                        "NaCl"
+                    ],
+                    "answer": "1",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q2",
+                    "question": "Is the Earth flat? (true/false)",
+                    "options": [
+                        "True",
+                        "False"
+                    ],
+                    "answer": "2",
+                    "type": "true_false",
+                    "weight": 1
+                },
+                {
+                    "id": "q3",
+                    "question": "What is the most abundant gas in the Earth's atmosphere?",
+                    "options": [
+                        "Oxygen",
+                        "Nitrogen",
+                        "Carbon Dioxide",
+                        "Hydrogen"
+                    ],
+                    "answer": "2",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q4",
+                    "question": "What is the pH level of pure water?",
+                    "options": [
+                        "0",
+                        "7",
+                        "14",
+                        "10"
+                    ],
+                    "answer": "2",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q5",
+                    "question": "What is the speed of light in a vacuum?",
+                    "options": [
+                        "300,000 km/s",
+                        "150,000 km/s",
+                        "450,000 km/s",
+                        "600,000 km/s"
+                    ],
+                    "answer": "1",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q6",
+                    "question": "Is the law of conservation of energy valid in closed systems? (true/false)",
+                    "options": [
+                        "True",
+                        "False"
+                    ],
+                    "answer": "1",
+                    "type": "true_false",
+                    "weight": 1
+                },
+                {
+                    "id": "q7",
+                    "question": "What organelle is known as the powerhouse of the cell?",
+                    "options": [
+                        "Nucleus",
+                        "Mitochondria",
+                        "Ribosome",
+                        "Chloroplast"
+                    ],
+                    "answer": "2",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q8",
+                    "question": "Do plants perform photosynthesis? (true/false)",
+                    "options": [
+                        "True",
+                        "False"
+                    ],
+                    "answer": "1",
+                    "type": "true_false",
+                    "weight": 1
+                },
+                {
+                    "id": "q9",
+                    "question": "What is the main cause of earthquakes?",
+                    "options": [
+                        "Volcanic activity",
+                        "Tectonic plate movements",
+                        "Meteor impacts",
+                        "Weather changes"
+                    ],
+                    "answer": "2",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q10",
+                    "question": "Is the ozone layer depleting? (true/false)",
+                    "options": [
+                        "True",
+                        "False"
+                    ],
+                    "answer": "1",
+                    "type": "true_false",
+                    "weight": 1
+                },
+                {
+                    "id": "q11",
+                    "question": "What force keeps planets in orbit around the sun?",
+                    "options": [
+                        "Friction",
+                        "Gravity",
+                        "Magnetism",
+                        "Inertia"
+                    ],
+                    "answer": "2",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q12",
+                    "question": "Is water a compound? (true/false)",
+                    "options": [
+                        "True",
+                        "False"
+                    ],
+                    "answer": "1",
+                    "type": "true_false",
+                    "weight": 1
+                },
+                {
+                    "id": "q13",
+                    "question": "What is the chemical formula for glucose?",
+                    "options": [
+                        "C6H12O6",
+                        "C12H22O11",
+                        "C6H6",
+                        "H2O"
+                    ],
+                    "answer": "1",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q14",
+                    "question": "Which planet is known as the Red Planet?",
+                    "options": [
+                        "Earth",
+                        "Mars",
+                        "Jupiter",
+                        "Venus"
+                    ],
+                    "answer": "2",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q15",
+                    "question": "What is the primary function of white blood cells?",
+                    "options": [
+                        "Transport oxygen",
+                        "Fight infections",
+                        "Clot blood",
+                        "Digest food"
+                    ],
+                    "answer": "2",
+                    "type": "multiple_choice",
+                    "weight": 1
+                }
+            ],
+            "created_at": "2023-10-27 10:00:00",
+            "feedback": [],
+            "attempts_log": {
+                "username1": {
+                    "attempts": 2,
+                    "scores": [
+                        80,
+                        90
+                    ]
+                },
+                "Medo": {
+                    "attempts": 1,
+                    "scores": [
+                        1
+                    ]
+                }
+            }
+        },
+        "quiz_1630453029": {
+            "admin": "admin_username",
+            "topic": "Mathematics",
+            "password": "securepassword456",
+            "difficulty": "medium",
+            "time_limit": 30,
+            "max_score": 100,
+            "attempts": 5,
+            "tags": [
+                "math",
+                "algebra",
+                "geometry"
+            ],
+            "questions": [
+                {
+                    "id": "q1",
+                    "question": "What is the value of π (pi) to two decimal places?",
+                    "options": [
+                        "3.14",
+                        "3.16",
+                        "3.12",
+                        "3.15"
+                    ],
+                    "answer": "1",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q2",
+                    "question": "What is the quadratic formula used for solving quadratic equations?",
+                    "options": [
+                        "x = (-b ± √(b² - 4ac)) / 2a",
+                        "x = (-b ± 4ac) / 2a",
+                        "x = b² / 4a",
+                        "x = (b ± √(4ac)) / a"
+                    ],
+                    "answer": "1",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q3",
+                    "question": "What is the sum of angles in a triangle?",
+                    "options": [
+                        "90 degrees",
+                        "180 degrees",
+                        "360 degrees",
+                        "270 degrees"
+                    ],
+                    "answer": "2",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q4",
+                    "question": "What is the value of 7 squared?",
+                    "options": [
+                        "49",
+                        "56",
+                        "64",
+                        "72"
+                    ],
+                    "answer": "1",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q5",
+                    "question": "What is the formula for the area of a circle?",
+                    "options": [
+                        "πr²",
+                        "2πr",
+                        "r²π",
+                        "πd"
+                    ],
+                    "answer": "1",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q6",
+                    "question": "Is zero an even number? (true/false)",
+                    "options": [
+                        "True",
+                        "False"
+                    ],
+                    "answer": "1",
+                    "type": "true_false",
+                    "weight": 1
+                },
+                {
+                    "id": "q7",
+                    "question": "What is the value of the square root of 144?",
+                    "options": [
+                        "10",
+                        "11",
+                        "12",
+                        "13"
+                    ],
+                    "answer": "3",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q8",
+                    "question": "In what type of angle is the measure less than 90 degrees?",
+                    "options": [
+                        "Acute",
+                        "Right",
+                        "Obtuse",
+                        "Straight"
+                    ],
+                    "answer": "1",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q9",
+                    "question": "What is the formula for the volume of a cylinder?",
+                    "options": [
+                        "πr²h",
+                        "2πrh",
+                        "πd²h",
+                        "4/3πr³"
+                    ],
+                    "answer": "1",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q10",
+                    "question": "Is a rhombus a type of parallelogram? (true/false)",
+                    "options": [
+                        "True",
+                        "False"
+                    ],
+                    "answer": "1",
+                    "type": "true_false",
+                    "weight": 1
+                },
+                {
+                    "id": "q11",
+                    "question": "What is the least common multiple of 4 and 5?",
+                    "options": [
+                        "20",
+                        "10",
+                        "15",
+                        "25"
+                    ],
+                    "answer": "1",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q12",
+                    "question": "What is the perimeter of a rectangle with length 5 and width 3?",
+                    "options": [
+                        "16",
+                        "15",
+                        "20",
+                        "18"
+                    ],
+                    "answer": "1",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q13",
+                    "question": "Is the Fibonacci sequence defined as F(n) = F(n-1) + F(n-2)? (true/false)",
+                    "options": [
+                        "True",
+                        "False"
+                    ],
+                    "answer": "1",
+                    "type": "true_false",
+                    "weight": 1
+                },
+                {
+                    "id": "q14",
+                    "question": "What is 15% of 200?",
+                    "options": [
+                        "30",
+                        "25",
+                        "20",
+                        "35"
+                    ],
+                    "answer": "1",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q15",
+                    "question": "What is the mode in the data set {2, 3, 4, 4, 5}?",
+                    "options": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "answer": "3",
+                    "type": "multiple_choice",
+                    "weight": 1
+                }
+            ],
+            "created_at": "2023-10-27 10:00:00",
+            "feedback": [],
+            "attempts_log": {
+                "username1": {
+                    "attempts": 1,
+                    "scores": [
+                        70
+                    ]
+                },
+                "Medo": {
+                    "attempts": 1,
+                    "scores": [
+                        60
+                    ]
+                }
+            }
+        },
+        "quiz_1630453030": {
+            "admin": "admin_username",
+            "topic": "History",
+            "password": "securepassword789",
+            "difficulty": "medium",
+            "time_limit": 30,
+            "max_score": 100,
+            "attempts": 5,
+            "tags": [
+                "history",
+                "world_history",
+                "ancient_history"
+            ],
+            "questions": [
+                {
+                    "id": "q1",
+                    "question": "Who was the first President of the United States?",
+                    "options": [
+                        "Abraham Lincoln",
+                        "George Washington",
+                        "Thomas Jefferson",
+                        "John Adams"
+                    ],
+                    "answer": "2",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q2",
+                    "question": "The Great Wall of China was primarily built to protect against invasions from which group?",
+                    "options": [
+                        "Mongols",
+                        "Japanese",
+                        "Vietnamese",
+                        "Koreans"
+                    ],
+                    "answer": "1",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q3",
+                    "question": "Is Cleopatra considered the last active ruler of the Ptolemaic Kingdom of Egypt? (true/false)",
+                    "options": [
+                        "True",
+                        "False"
+                    ],
+                    "answer": "1",
+                    "type": "true_false",
+                    "weight": 1
+                },
+                {
+                    "id": "q4",
+                    "question": "What year did the Titanic sink?",
+                    "options": [
+                        "1912",
+                        "1914",
+                        "1918",
+                        "1920"
+                    ],
+                    "answer": "1",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q5",
+                    "question": "Which war was fought between the North and South regions in the United States?",
+                    "options": [
+                        "World War I",
+                        "The Civil War",
+                        "The Revolutionary War",
+                        "World War II"
+                    ],
+                    "answer": "2",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q6",
+                    "question": "Was the Berlin Wall erected to separate East and West Germany? (true/false)",
+                    "options": [
+                        "True",
+                        "False"
+                    ],
+                    "answer": "1",
+                    "type": "true_false",
+                    "weight": 1
+                },
+                {
+                    "id": "q7",
+                    "question": "What was the primary purpose of the Crusades?",
+                    "options": [
+                        "Trade routes",
+                        "Religious war",
+                        "Territory expansion",
+                        "Cultural exchange"
+                    ],
+                    "answer": "2",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q8",
+                    "question": "Who wrote the Declaration of Independence?",
+                    "options": [
+                        "John Adams",
+                        "Thomas Jefferson",
+                        "George Washington",
+                        "James Madison"
+                    ],
+                    "answer": "2",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q9",
+                    "question": "Is the Magna Carta considered a foundational document for democracy? (true/false)",
+                    "options": [
+                        "True",
+                        "False"
+                    ],
+                    "answer": "1",
+                    "type": "true_false",
+                    "weight": 1
+                },
+                {
+                    "id": "q10",
+                    "question": "What was the main cause of the Great Depression?",
+                    "options": [
+                        "Stock market crash",
+                        "World War I",
+                        "Industrial Revolution",
+                        "Oil Crisis"
+                    ],
+                    "answer": "1",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q11",
+                    "question": "Which ancient civilization is known for its pyramids?",
+                    "options": [
+                        "Maya",
+                        "Inca",
+                        "Egyptians",
+                        "Greeks"
+                    ],
+                    "answer": "3",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q12",
+                    "question": "Who was the leader of the Soviet Union during World War II?",
+                    "options": [
+                        "Joseph Stalin",
+                        "Vladimir Lenin",
+                        "Mikhail Gorbachev",
+                        "Leon Trotsky"
+                    ],
+                    "answer": "1",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q13",
+                    "question": "Did the Cold War involve a direct conflict between the US and the USSR? (true/false)",
+                    "options": [
+                        "True",
+                        "False"
+                    ],
+                    "answer": "2",
+                    "type": "true_false",
+                    "weight": 1
+                },
+                {
+                    "id": "q14",
+                    "question": "Which empire was known for its extensive road system and the Pax Romana?",
+                    "options": [
+                        "Ottoman Empire",
+                        "Roman Empire",
+                        "Mongol Empire",
+                        "Persian Empire"
+                    ],
+                    "answer": "2",
+                    "type": "multiple_choice",
+                    "weight": 1
+                },
+                {
+                    "id": "q15",
+                    "question": "Who was the first female Prime Minister of the United Kingdom?",
+                    "options": [
+                        "Margaret Thatcher",
+                        "Theresa May",
+                        "Angela Merkel",
+                        "Golda Meir"
+                    ],
+                    "answer": "1",
+                    "type": "multiple_choice",
+                    "weight": 1
+                }
+            ],
+            "created_at": "2023-10-27 10:00:00",
+            "feedback": [],
+            "attempts_log": {
+                "username1": {
+                    "attempts": 1,
+                    "scores": [
+                        75
+                    ]
+                },
+                "Medo": {
+                    "attempts": 1,
+                    "scores": [
+                        80
+                    ]
+                }
+            }
+        }
+    }
+}
