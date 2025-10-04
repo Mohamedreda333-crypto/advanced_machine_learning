@@ -1,0 +1,44 @@
+{
+    "1001": {
+        "account_holder": "John Doe",
+        "balance": 1000.0,
+        "password": "pass123",
+        "transaction_history": [
+            "Deposited: $1000",
+            "Withdrew: $500",
+            "Withdrew:200.0",
+            "Deposited: $200.0",
+            "Withdrew:200.0",
+            "Withdrew:300.0"
+        ]
+    },
+    "1002": {
+        "account_holder": "Jane Smith",
+        "balance": 2000.0,
+        "password": "pass456",
+        "transaction_history": [
+            "Deposited: $1000",
+            "Deposited: $500",
+            "Deposited: $200.0",
+            "Deposited: $300.0"
+        ]
+    },
+    "1003": {
+        "account_holder": "Jane Smith",
+        "balance": 1500.0,
+        "password": "pass456",
+        "transaction_history": [
+
+        ]
+        
+
+    },
+    "1004": {
+        "account_holder": "Jane Smith",
+        "balance": 2000.0,
+        "password": "pass456",
+        "transaction_history": [
+
+        ]
+    }
+}
