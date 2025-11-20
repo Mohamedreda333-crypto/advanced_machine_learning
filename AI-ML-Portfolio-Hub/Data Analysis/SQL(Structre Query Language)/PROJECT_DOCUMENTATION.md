@@ -1,6 +1,6 @@
-# Project Documentation 📚
+# Project Documentation 
 
-## 🚀 Setup & Installation Guide
+##  Setup & Installation Guide
 
 ### Prerequisites
 - **SQL Server 2019** or later version
@@ -29,7 +29,7 @@
 4. Open and execute `Project_2_TSQL.sql`
 5. Analyze query results in the Results pane
 
-## 🏗️ Database Schema Overview
+##  Database Schema Overview
 
 ### AdventureWorksLT2022 Schema
 **Core Tables:**
