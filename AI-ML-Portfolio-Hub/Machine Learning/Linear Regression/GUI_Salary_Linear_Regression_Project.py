@@ -67,7 +67,7 @@ info_label.pack(padx=20, pady=15)
 model_frame = tk.Frame(main_container, bg=COLORS['dark'], relief='sunken', bd=2)
 model_frame.pack(fill='x', pady=(0, 20))
 
-model_text = """Model Equation: Salary = 9356.86 × Years + 2000\nR² Score: 0.95 | Model Accuracy: High"""
+model_text = """Model Equation: Salary = 9356.86 × Years + 2000\nR² Score: 0.98 | Model Accuracy: High"""
 
 model_label = tk.Label(model_frame, text=model_text, font=("Arial", 12, "bold"), 
                       fg=COLORS['success'], bg=COLORS['dark'], justify='center')
