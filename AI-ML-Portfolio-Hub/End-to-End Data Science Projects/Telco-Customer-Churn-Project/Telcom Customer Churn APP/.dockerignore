@@ -1,0 +1,18 @@
+# python cache
+__pycache__/
+*.pyc
+
+Data Analysis and Preprocessing on Telco_Customer_Churn Data.ipynb
+
+insight_30.jpeg
+insight_31.jpeg
+
+Machine Learning Models.ipynb
+
+Pipline for XGBOOST.ipynb
+Pipline for XGBOOST.py
+
+Streamlit_app.py
+
+telco_churn_processed.csv
+WA_Fn-UseC_-Telco-Customer-Churn.csv
