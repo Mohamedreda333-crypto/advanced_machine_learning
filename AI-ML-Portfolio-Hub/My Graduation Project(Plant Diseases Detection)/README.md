@@ -1,6 +1,5 @@
-# 🌱 Plant Diseases Detection - Graduation Project
-
-<div align="center">
+# 🌱 Intelligent Plant Disease Detection System
+### Graduation Project | Deep Learning & Advanced Computer Vision Pipeline
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)
@@ -8,70 +7,53 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 
-**An Advanced AI-Powered Solution for Early Plant Disease Detection and Diagnosis**
+## 📌 Project Overview
+The agricultural sector faces massive losses due to plant diseases. This project presents a robust Deep Learning solution to identify and classify these diseases with extreme precision. By utilizing **Transfer Learning** with the most advanced architectures, the system can distinguish between healthy and infected leaves across multiple species.
 
-</div>
+## 🧠 Model Architectures & Performance Reports
+In this project, I have implemented and compared 4 sophisticated Deep Learning models. Below are the architectures used and their respective classification reports:
 
-## 📋 Table of Contents
-- [🌟 Project Overview](#-project-overview)
-- [🎯 Key Features](#-key-features)
-- [🛠 Technical Stack](#-technical-stack)
-- [📊 Dataset](#-dataset)
-- [🚀 Quick Start](#-quick-start)
-- [📁 Project Structure](#-project-structure)
-- [🔧 Software Analysis](#-software-analysis)
-- [📈 Results](#-results)
-- [👨‍💻 Author](#-author)
+### 1. ResNet152V2
+* **Description:** Uses residual blocks with identity mapping for deeper feature propagation.
+* **Performance Report:**
+![ResNet152V2 Report](https://github.com/Mohamedreda333-crypto/advanced_machine_learning/blob/main/AI-ML-Portfolio-Hub/My%20Graduation%20Project(Plant%20Diseases%20Detection)/Model%201/Classification_report.png?raw=true)
 
-## 🌟 Project Overview
+---
 
-Plant Diseases Detection is an advanced machine learning system that leverages deep learning and computer vision techniques to automatically identify and classify plant diseases from leaf images. This solution addresses critical challenges in modern agriculture by enabling early disease detection, reducing crop losses, and promoting sustainable farming practices.
+### 2. EfficientNetB4
+* **Description:** Scales depth, width, and resolution uniformly using compound coefficients.
+* **Performance Report:**
+![EfficientNetB4 Report](https://github.com/Mohamedreda333-crypto/advanced_machine_learning/blob/main/AI-ML-Portfolio-Hub/My%20Graduation%20Project(Plant%20Diseases%20Detection)/Model%202/Classification_%20Report.png?raw=true)
 
-### 🎯 Business Impact
-- **Early Disease Detection**: Identify plant diseases at initial stages
-- **Precision Agriculture**: Enable targeted treatment strategies
-- **Yield Optimization**: Reduce crop losses by up to 30%
-- **Cost Reduction**: Minimize pesticide usage through accurate diagnosis
+---
 
-## 🎯 Key Features
+### 3. EfficientNetV2M
+* **Description:** Faster training speed and better parameter efficiency than V1.
+* **Performance Report:**
+![EfficientNetV2M Report](https://github.com/Mohamedreda333-crypto/advanced_machine_learning/blob/main/AI-ML-Portfolio-Hub/My%20Graduation%20Project(Plant%20Diseases%20Detection)/Model%203/Full%20Classification%20Report.png?raw=true)
 
-### 🔍 Core Capabilities
-- **Multi-Disease Classification**: Detect 38+ different plant diseases
-- **Real-time Processing**: Analyze images in under 2 seconds
-- **High Accuracy**: Achieve 95%+ classification accuracy
-- **Mobile Compatibility**: Responsive design for field use
-- **Batch Processing**: Analyze multiple images simultaneously
+---
 
-## 🛠 Technical Stack
+### 4. EfficientNetV2L
+* **Description:** The largest variant, designed for maximum accuracy on complex patterns.
+* **Performance Report:**
+![EfficientNetV2L Report](https://github.com/Mohamedreda333-crypto/advanced_machine_learning/blob/main/AI-ML-Portfolio-Hub/My%20Graduation%20Project(Plant%20Diseases%20Detection)/Model%204/precision_recall.png?raw=true)
 
-### 🤖 Machine Learning & AI
-- TensorFlow 2.8+ & Keras
-- OpenCV 4.5+ for image processing
-- Scikit-learn for model evaluation
-- NumPy & Pandas for data manipulation
+## 🛠️ Key Technical Features
+- **Transfer Learning:** Fine-tuned pre-trained models on specialized plant disease datasets.
+- **Advanced Preprocessing:** Integrated image scaling and normalization tailored for each architecture.
+- **Optimization Strategy:** Used **Adam** optimizer and **ReduceLROnPlateau** for fine-grained convergence.
+- **Robust Evaluation:** Analyzed each model using Precision-Recall curves and detailed Classification Reports.
 
-### 💻 Backend Development
-- Flask / FastAPI (Web Framework)
-- RESTful API Architecture
-- SQLite / PostgreSQL (Database)
+## 💻 Tech Stack
+- **Deep Learning:** TensorFlow, Keras.
+- **Computer Vision:** OpenCV.
+- **Analytics:** Pandas, NumPy, Scikit-learn.
 
-### 🌐 Frontend Development
-- HTML5, CSS3, JavaScript
-- Bootstrap 5.0+
-- Chart.js for analytics
+## 👤 Author
+**Mohamed Reda Ramadan Khamis**
+*Graduation Project - Machine Learning & Deep Learning Specialist*
+📞 **Phone:** 01554725661
 
-## 📊 Dataset
-
-### 📁 Dataset Specifications
-- **Total Images**: 87,000+ labeled plant images
-- **Plant Species**: 14 different plant types
-- **Disease Classes**: 38 distinct disease categories
-- **Healthy Samples**: Included for comparison
-
-## 🚀 Quick Start
-
-### Prerequisites
-```bash
-Python 3.8 or higher
-TensorFlow 2.8+
-OpenCV 4.5+
+---
+*Developed to bridge the gap between AI research and practical agricultural solutions.*
